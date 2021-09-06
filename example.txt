@@ -1,0 +1,3 @@
+line one
+line truncatewords
+line three
